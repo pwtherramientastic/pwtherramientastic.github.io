@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pwt Herramientas TICS",
+    "description": "",
+    "home_page_url": "https://pwtherramientastic.github.io",
+    "feed_url": "https://pwtherramientastic.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Profr. Juan Carlos Cuello"
+    },
+    "items": [
+    ]
+}
