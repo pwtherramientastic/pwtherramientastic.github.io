@@ -5,9 +5,24 @@
     "home_page_url": "https://pwtherramientastic.github.io",
     "feed_url": "https://pwtherramientastic.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://pwtherramientastic.github.io/media/website/Logo-PWT.png",
     "author": {
         "name": "Profr. Juan Carlos Cuello"
     },
     "items": [
+        {
+            "id": "https://pwtherramientastic.github.io/el-bloc-de-notas-de-microsoft.html",
+            "url": "https://pwtherramientastic.github.io/el-bloc-de-notas-de-microsoft.html",
+            "title": "El bloc de notas de Microsoft",
+            "summary": "EL bloc de notas de Microsoft ha evolucionado y en este año cambio sl softwar por una aplicación de store y en linea",
+            "content_html": "EL bloc de notas de Microsoft ha evolucionado y en este año cambio sl softwar por una aplicación de store y en linea",
+            "author": {
+                "name": "Profr. Juan Carlos Cuello"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-05T14:47:20-05:00",
+            "date_modified": "2019-06-05T14:47:20-05:00"
+        }
     ]
 }
